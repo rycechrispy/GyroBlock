@@ -1,4 +1,4 @@
 GyroBlock
 =========
 
-A game developed by Building Users Modern Software
+A game developed by BUMS
